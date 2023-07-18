@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 I am a Code Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently still a student but I'm contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
