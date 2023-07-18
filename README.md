@@ -25,7 +25,7 @@ I am a Code Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write code and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](https://contact.dvd373.ro)
 
