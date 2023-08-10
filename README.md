@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://discord.gg/fairplay">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://contact.dvd373.ro">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=google&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@ I am a Code Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I write code and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](https://contact.dvd373.ro)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](https://)
 
 ---
 
